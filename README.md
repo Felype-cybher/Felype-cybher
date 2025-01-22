@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/Felype-cybher">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felype-cybher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felype-cybher&show_icons=true&theme=Night&Owl_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felype-cybher&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
