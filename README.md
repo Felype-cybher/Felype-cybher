@@ -3,7 +3,7 @@
 
 - 🔭 Estou estudando para ser um desenvolvedor front-end.
 - Cursando Analise e Desenvolvimento de Sistemas
-- 😄 Pronouns: ele/deles
+
 
 <div>
   <a href="https://github.com/Felype-cybher">
