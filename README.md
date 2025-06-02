@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Felype
 
 
-- 🔭 Estou estudando para ser um desenvolvedor front-end.
 - Cursando Analise e Desenvolvimento de Sistemas
 
 
