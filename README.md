@@ -1,29 +1,29 @@
 ### 👋 Olá, eu sou o Felype!
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e aspirante a Desenvolvedor Backend Java. Estou focado em construir uma base sólida, com bom entendimento de Lógica de Programação e dos pilares da Programação Orientada a Objetos (POO). Estou animado para aplicar esses conhecimentos e continuar crescendo na área de desenvolvimento de software.
+Sou estudante de Análise e Desenvolvimento de Sistemas e um futuro Desenvolvedor Backend Java. Tenho uma base sólida em Lógica de Programação e Programação Orientada a Objetos (POO), e estou animado para aplicar e expandir esses conceitos no desenvolvimento de software.
 
 ---
 
-### 🌱 Meu Foco Atual
+### 🌱 Meu Foco de Estudo Atual
 
-- Dominar os conceitos de **POO em Java** (Herança, Polimorfismo, Encapsulamento, Abstração).
-- **Iniciando** minha jornada no ecossistema Spring, começando pelo **Spring Boot**.
+- Aprofundar os conceitos de **POO em Java** (Herança, Polimorfismo, Encapsulamento, Abstração).
+- **Iniciar os estudos no ecossistema Spring**, começando com o **Spring Boot** para criar minhas primeiras APIs.
 - Praticar a resolução de problemas e algoritmos com Java.
 - Aprimorar o uso de controle de versão com **Git e GitHub**.
 
 ---
 
-### 🛠️ Ferramentas e Conhecimentos
+### 🛠️ Tecnologias e Ferramentas
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,git,github,html,css,js,idea,vscode" />
   </a>
 </p>
 
-- **Linguagem Principal:** Java
-- **Conceitos Fundamentais:** Lógica de Programação, POO (Programação Orientada a Objetos).
-- **Ferramentas:** Git, GitHub, IDEs (VS Code/IntelliJ).
+- **Foco Principal (Backend):** `Java`, `POO (Programação Orientada a Objetos)`
+- **Conhecimentos em Frontend:** `HTML5`, `CSS3`, `JavaScript`
+- **Ferramentas:** `Git`, `GitHub`, `IntelliJ`, `VS Code`
 
 ---
 
