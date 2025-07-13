@@ -12,20 +12,17 @@ Estou direcionando meus estudos para o desenvolvimento de APIs com **Spring Boot
 
 ### ⚙️ Habilidades & Ferramentas
 
-<table>
-  <tr>
-    <td valign="top"><strong>Backend</strong></td>
-    <td>Java, Programação Orientada a Objetos, Spring Boot (Iniciante)</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Frontend</strong></td>
-    <td>HTML5, CSS3, JavaScript</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Ferramentas</strong></td>
-    <td>Git, GitHub, IntelliJ IDEA, VS Code</td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,git,github,html,css,js,idea,vscode" />
+  </a>
+</p>
+
+<ul align="center" style="list-style-type: none; margin-left: -38px;">
+  <li><strong>Backend:</strong> Java, POO, Spring Boot (Iniciante)</li>
+  <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript</li>
+  <li><strong>Ferramentas:</strong> Git, GitHub, IntelliJ IDEA, VS Code</li>
+</ul>
 
 ---
 
