@@ -1,33 +1,35 @@
-### 👋 Olá, eu sou o Felype!
+### 👋 Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e um futuro Desenvolvedor Backend Java. Tenho uma base sólida em Lógica de Programação e Programação Orientada a Objetos (POO), e estou animado para aplicar e expandir esses conceitos no desenvolvimento de software.
-
----
-
-### 🌱 Meu Foco de Estudo Atual
-
-- Aprofundar os conceitos de **POO em Java** (Herança, Polimorfismo, Encapsulamento, Abstração).
-- **Iniciar os estudos no ecossistema Spring**, começando com o **Spring Boot** para criar minhas primeiras APIs.
-- Praticar a resolução de problemas e algoritmos com Java.
-- Aprimorar o uso de controle de versão com **Git e GitHub**.
+Desenvolvedor Backend com foco no ecossistema Java, atualmente cursando Análise e Desenvolvimento de Sistemas. Minha paixão é construir a lógica e a infraestrutura que sustentam aplicações robustas e eficientes, com forte ênfase nos princípios da Programação Orientada a Objetos.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🚀 Foco e Desenvolvimento Contínuo
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,github,html,css,js,idea,vscode" />
-  </a>
-</p>
-
-- **Foco Principal (Backend):** `Java`, `POO (Programação Orientada a Objetos)`
-- **Conhecimentos em Frontend:** `HTML5`, `CSS3`, `JavaScript`
-- **Ferramentas:** `Git`, `GitHub`, `IntelliJ`, `VS Code`
+Estou direcionando meus estudos para o desenvolvimento de APIs com **Spring Boot**, buscando aprofundar meus conhecimentos na criação de serviços RESTful. Paralelamente, continuo solidificando minha base em algoritmos e estruturas de dados em Java e aprimorando minhas práticas de controle de versão com Git.
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### ⚙️ Habilidades & Ferramentas
+
+<table>
+  <tr>
+    <td valign="top"><strong>Backend</strong></td>
+    <td>Java, Programação Orientada a Objetos, Spring Boot (Iniciante)</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Frontend</strong></td>
+    <td>HTML5, CSS3, JavaScript</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Ferramentas</strong></td>
+    <td>Git, GitHub, IntelliJ IDEA, VS Code</td>
+  </tr>
+</table>
+
+---
+
+### 📊 Análise de Contribuições
 
 <div align="center">
   <a href="https://github.com/Felype-cybher">
@@ -38,7 +40,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e um futuro Desenvolvedo
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Contato
 
 <div align="center"> 
   <a href="https://www.instagram.com/_felypezzz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
