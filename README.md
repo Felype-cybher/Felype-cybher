@@ -1,32 +1,29 @@
 ### 👋 Olá, eu sou o Felype!
 
-Sou um desenvolvedor focado em backend, atualmente cursando Análise e Desenvolvimento de Sistemas e me especializando no ecossistema Java. Meu objetivo é construir APIs e microsserviços robustos, escaláveis e eficientes, sempre aplicando código limpo e as melhores práticas de desenvolvimento. Estou em busca de uma oportunidade para crescer e contribuir como Desenvolvedor Backend Java.
+Sou estudante de Análise e Desenvolvimento de Sistemas e aspirante a Desenvolvedor Backend Java. Estou focado em construir uma base sólida, com bom entendimento de Lógica de Programação e dos pilares da Programação Orientada a Objetos (POO). Estou animado para aplicar esses conhecimentos e continuar crescendo na área de desenvolvimento de software.
 
 ---
 
-### 🌱 Atualmente, estou focado em...
+### 🌱 Meu Foco Atual
 
-- Aprofundar meus conhecimentos no **Spring Framework** (Spring Boot, Spring MVC, Spring Data JPA).
-- Construir e documentar **APIs RESTful** utilizando padrões de mercado.
-- Aprender sobre **arquitetura de microsserviços** e comunicação assíncrona.
-- Praticar com **Docker** para criar ambientes de desenvolvimento consistentes.
-- Estudar a integração com bancos de dados relacionais (**PostgreSQL**, **MySQL**) e NoSQL.
+- Dominar os conceitos de **POO em Java** (Herança, Polimorfismo, Encapsulamento, Abstração).
+- **Iniciando** minha jornada no ecossistema Spring, começando pelo **Spring Boot**.
+- Praticar a resolução de problemas e algoritmos com Java.
+- Aprimorar o uso de controle de versão com **Git e GitHub**.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Ferramentas e Conhecimentos
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,git,docker,postgres,mysql,github,idea" />
+    <img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode" />
   </a>
 </p>
 
-- **Linguagem Principal:** `Java`
-- **Frameworks & Ecossistema:** `Spring Boot`, `Spring MVC`, `Spring Security`, `Spring Data JPA`
-- **Bancos de Dados:** `PostgreSQL`, `MySQL`, `H2 Database`
-- **Ferramentas & DevOps:** `Git`, `GitHub`, `Docker`, `Maven`, `Insomnia`/`Postman`
-- **Conhecimentos de Apoio:** `HTML`, `CSS`, `JavaScript` (para entender a integração com o front-end)
+- **Linguagem Principal:** Java
+- **Conceitos Fundamentais:** Lógica de Programação, POO (Programação Orientada a Objetos).
+- **Ferramentas:** Git, GitHub, IDEs (VS Code/IntelliJ).
 
 ---
 
