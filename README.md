@@ -1,10 +1,10 @@
-### 👋 Olá, eu sou o Felype!
+###  Olá, eu sou o Felype!
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e um futuro Desenvolvedor Backend Java. Tenho uma base sólida em Lógica de Programação e Programação Orientada a Objetos (POO), e estou animado para aplicar e expandir esses conceitos no desenvolvimento de software.
 
 ---
 
-### 🌱 Meu Foco de Estudo Atual
+###  Meu Foco de Estudo Atual
 
 - Aprofundar os conceitos de **POO em Java** (Herança, Polimorfismo, Encapsulamento, Abstração).
 - **Iniciar os estudos no ecossistema Spring**, começando com o **Spring Boot** para criar minhas primeiras APIs.
@@ -13,7 +13,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e um futuro Desenvolvedo
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 <p>
   <a href="https://skillicons.dev">
@@ -27,7 +27,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e um futuro Desenvolvedo
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+###  Minhas Estatísticas no GitHub
 
 <div align="center">
   <a href="https://github.com/Felype-cybher">
@@ -38,7 +38,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e um futuro Desenvolvedo
 
 ---
 
-### 📫 Como me encontrar
+###  Como me encontrar
 
 <div align="center"> 
   <a href="https://www.instagram.com/_felypezzz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
